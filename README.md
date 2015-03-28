@@ -8,29 +8,27 @@ This is the repo to fork or clone when creating a new MDN Content Kit.
 1. Create your index.html file.
 1. Put all of your resources into the repo.
 
+# Things to include in your repo:
+1. Readme
+11. Rerequisites
+
 Include this in your README.md file:
 
 # <Topic> Content Kit
 
-_Current as of Thing 0.2.4_ 
+_Current as of Thing 0.2.4_
 
-Introduction
-------------
+## Introduction
 
 * One sentence description of thing and its purpose
 * Who/where/what/when/why
 
-Key Points
-----------
+## Key Points
 
 1.
+1.
 
-2.
-
-3.
-
-Reference Materials
--------------------
+## Reference Materials
 
 Thing:
 
@@ -50,8 +48,7 @@ Relevant product links:
 * Landing page, downloads:
 * Docs:
 
-Presentation Setup and Materials
---------------------------------
+## Presentation Setup and Materials
 
 For __any presentation__:
 
@@ -76,8 +73,7 @@ If demoing on __places for breakfats__:
 - [ ] Eat eggs with `tabasco`
 
 
-Demoing: Things that are Broken
--------------------------------
+## Demoing: Things that are Broken
 
 Notes on broken stuff.
 
@@ -87,15 +83,13 @@ Blah blah
 
 ### Broken area #2
 
-Demoing: The Good Parts
------------------------
+## Demoing: The Good Parts
 
 ### Introduction / Setup
 
 ### Blinkle truckonomy
 
-Frequently Asked Questions (FAQs)
----------------------------------
+## Frequently Asked Questions (FAQs)
 
 ### What about X for Y?
 
