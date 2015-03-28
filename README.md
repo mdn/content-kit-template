@@ -2,7 +2,7 @@
 To create a new MDN Content Kit, fork or clone this template
 
 ## Instructions
-1. Remember that you are creating the kit for the teacher or presenter. Speak to them. Make sure you give them everything they need to be successful.
+1. <b>Remember that you are creating the kit for the teacher or presenter.</b> Speak to them. Make sure you give them everything they need to be successful.
 1. Fork or clone this MDN Content Kit Template project.
 1. Create your README - template below.
 1. Create your index.html file.
@@ -29,73 +29,6 @@ To create a new MDN Content Kit, fork or clone this template
 
 # Include the following in your README.md file:
 
-# <Topic> Content Kit
+This is the YourTopicName Content Kit. It contains everything you need to present/teach a one hour presentation on YourTopicName.
 
-_Current as of Thing 0.2.4_ Include some indication of what version of technology this supports or at least what date this kit was last updated.
-
-## Introduction/Summary
-
-* One sentence description of thing and its purpose
-* Prerequisites for the presenter
-  * What knowledge and background will the presenter need?
-* Prerequisites for the audience
-  * What knowledge and background will the audience need? For beginner level kits, please include even basics like understanding how to write a simple web page or understanding how to use an editor.
-* Technology level: is this technology well established or is it still experimental?
-* For any issues, please submit github issues against this repo: include link here.
-
-## Key Points
-
-After you present or teach this content kit, your audience will know how to:
-
-1.
-1.
-
-## Reference Materials
-
-Project Name:
-
-* Source code: link
-* Issue tracker: link
-* Builds: link
-* Docs: link
-
-General area of the Project:
-
-* Docs: link
-* Wiki: link
-* Feedback: link
-
-Relevant project links:
-
-* Landing page, downloads: link
-* Docs: link
-
-## Presentation Setup and Materials
-
-* Link to slides
-* Links to videos of the presentation materials being used
-* Any notes about presenting or using the materials
-
-## Demo Setup and Materials
-
-* Link to demos
-* Demo script
-  * Things that might be broken
-  * Things that might be broken
-  * Things to call out, main points to make
-* Links to videos of the demos being used
-* Any notes about demoing or using the materials
-* Any prerequisites:
-  * Hardware needed
-  * Instructions for projecting your device's screen (USB webcam, document camera, etc.)
-  * Correct USB cable for the device
-  * Remote debugging enabled for phone demos
-* Instructions for how to give the demo offline
-
-## Frequently Asked Questions (FAQs)
-
-List any questions that the presenter might get here, especially any "difficult" questions. Or link to a file of FAQs.
-
-## Additional Materials
-
-List any additional materials that might be helpful.
+To get started, visit [This project's index file.](index.html).
