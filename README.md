@@ -1,5 +1,5 @@
 # content-kit-template
-To create a new MDN Content Kit, fork or clone this template
+To create a new MDN Content Kit, fork or clone this template. 
 
 ## Instructions
 1. <b>Remember that you are creating the kit for the teacher or presenter.</b> Speak to them. Make sure you give them everything they need to be successful.
@@ -32,3 +32,7 @@ To create a new MDN Content Kit, fork or clone this template
 This is the YourTopicName Content Kit. It contains everything you need to present/teach a one hour presentation on YourTopicName.
 
 To get started, visit [This project's index file.](index.html).
+
+# Final steps:
+
+1. Update the [list of kits on MDN](https://developer.mozilla.org/en-US/Learn/Content_kits) with a link to your new kit.
