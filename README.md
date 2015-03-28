@@ -17,9 +17,8 @@ To create a new MDN Content Kit, fork or clone this template
   1. Presentation Materials
   1. Demo Materials
 1. Presentation materials to include in your MDN Content Kit - These can be in your repo or you can link to them from your readme.
-  1. Presentation
-    1. Slides - in an open, editable format. The more notes, the better.
-    1. Video of the materials being presented. This can be useful either for less experienced meetup groups to use or for presenters to use to learn how to give this presentation.
+  1. Slides - in an open, editable format. The more notes, the better.
+  1. Video of the materials being presented. This can be useful either for less experienced meetup groups to use or for presenters to use to learn how to give this presentation.
 1. Demo materials.
   1. Demo how to.
   1. Demo trouble shooting.
@@ -28,18 +27,21 @@ To create a new MDN Content Kit, fork or clone this template
 1. FAQs. Questions you'd expect the presenter to get and how to answer them.
 1. Pictures/diagrams.
 
-Include this in your README.md file:
+# Include the following in your README.md file:
 
 # <Topic> Content Kit
 
-_Current as of Thing 0.2.4_ Please include some indication of what version of technology this supports or at least what date this kit was last updated.
+_Current as of Thing 0.2.4_ Include some indication of what version of technology this supports or at least what date this kit was last updated.
 
 ## Introduction/Summary
 
 * One sentence description of thing and its purpose
-* Prerequisites for the presenter - what knowledge and background will the presenter need?
-* Prerequisites for the audience - what knowledge and background will the audience need? For beginner level kits, please include even basics like understanding how to write a simple web page or understanding how to use an editor.
-* For any issues, please submit github issues against this repo.
+* Prerequisites for the presenter
+  * What knowledge and background will the presenter need?
+* Prerequisites for the audience
+  * What knowledge and background will the audience need? For beginner level kits, please include even basics like understanding how to write a simple web page or understanding how to use an editor.
+* Technology level: is this technology well established or is it still experimental?
+* For any issues, please submit github issues against this repo: include link here.
 
 ## Key Points
 
@@ -50,23 +52,23 @@ After you present or teach this content kit, your audience will know how to:
 
 ## Reference Materials
 
-<Project Name>:
+Project Name:
 
-* Source code: <link>
-* Issue tracker: <link>
-* Builds: <link>
-* Docs: <link>
+* Source code: link
+* Issue tracker: link
+* Builds: link
+* Docs: link
 
-General area of Thing:
+General area of the Project:
 
-* Docs: <link>
-* Wiki: <link>
-* Feedback: <link>
+* Docs: link
+* Wiki: link
+* Feedback: link
 
-Relevant product links:
+Relevant project links:
 
-* Landing page, downloads: <link>
-* Docs: <link>
+* Landing page, downloads: link
+* Docs: link
 
 ## Presentation Setup and Materials
 
