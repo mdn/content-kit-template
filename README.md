@@ -10,7 +10,7 @@ This is the repo to fork or clone when creating a new MDN Content Kit.
 
 # Things to include in your repo:
 1. Readme
-11. Rerequisites
+2. Rerequisites
 
 Include this in your README.md file:
 
