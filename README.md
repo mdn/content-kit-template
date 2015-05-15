@@ -33,6 +33,8 @@ This is the YourTopicName Content Kit. It contains everything you need to presen
 
 To get started, visit [This project's index file.](index.html).
 
+You can get much more detailed instructions on writing a content kit from our [Making a new content kit guide](http://chrisdavidmills.github.io/content-kit-guide/).
+
 # Final steps:
 
 1. Update the [list of kits on MDN](https://developer.mozilla.org/en-US/Learn/Content_kits) with a link to your new kit.
